@@ -1,0 +1,16 @@
+.scroll {
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    transform: rotate(-90deg);
+    cursor: pointer;
+    display: none;
+    z-index: 99;
+
+    @media(min-width:1024px) {
+        &.active {
+            display: block;
+        }
+    }
+
+}

@@ -1,0 +1,29 @@
+.person {
+    width: 80px;
+    height: 80px;
+    margin: 0 3% 0 7%;
+}
+
+.personInfo {
+    line-height: 100%;
+
+    .name {
+        font-size: 18px;
+        margin: 0;
+    }
+
+    .desc {
+        margin: 0;
+    }
+}
+
+@media (min-width:1600px) {
+    .person {
+        width: 100px;
+        height: 100px;
+    }
+
+    .name {
+        font-size: 20px;
+    }
+}

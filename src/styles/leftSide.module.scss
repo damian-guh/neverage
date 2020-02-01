@@ -1,0 +1,11 @@
+.leftSide {
+    transform: translateX(-100%);
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    transition: ease-in-out 1s;
+
+    &[data-position="in-viewport"] {
+        transform: translateX(0);
+    }
+}
