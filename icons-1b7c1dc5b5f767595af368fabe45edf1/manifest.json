@@ -2,7 +2,7 @@
   "name": "neverage",
   "short_name": "neverage",
   "description": null,
-  "dir": "auto",
+  "dir": "/neverage",
   "lang": "en-US",
   "display": "standalone",
   "orientation": "any",
