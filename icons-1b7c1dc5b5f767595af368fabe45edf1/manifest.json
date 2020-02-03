@@ -2,11 +2,11 @@
   "name": "neverage",
   "short_name": "neverage",
   "description": null,
-  "dir": "/neverage",
+  "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
   "orientation": "any",
-  "start_url": "/?homescreen=1",
+  "start_url": "/neverage",
   "background_color": "#fff",
   "theme_color": "#fff",
   "icons": [
