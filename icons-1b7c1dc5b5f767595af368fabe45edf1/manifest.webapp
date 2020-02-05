@@ -3,9 +3,9 @@
   "name": "neverage",
   "description": null,
   "icons": {
-    "60": "/neverage/icons-1b7c1dc5b5f767595af368fabe45edf1/firefox_app_60x60.png",
-    "128": "/neverage/icons-1b7c1dc5b5f767595af368fabe45edf1/firefox_app_128x128.png",
-    "512": "/neverage/icons-1b7c1dc5b5f767595af368fabe45edf1/firefox_app_512x512.png"
+    "60": "/icons-1b7c1dc5b5f767595af368fabe45edf1/firefox_app_60x60.png",
+    "128": "/icons-1b7c1dc5b5f767595af368fabe45edf1/firefox_app_128x128.png",
+    "512": "/icons-1b7c1dc5b5f767595af368fabe45edf1/firefox_app_512x512.png"
   },
   "developer": {
     "name": null,
