@@ -1,6 +1,6 @@
 import React from 'react';
 import scrollTopStyles from "../styles/scrollTop.module.scss"
-import arrowRight from "../images/arrow-right.svg"
+import arrowRight from "../images/arrowRight.svg"
 class ScrollTop extends React.Component {
     state = {
         active: false

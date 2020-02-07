@@ -1,6 +1,7 @@
 import React from 'react';
 import rightSideStyles from "../styles/rightSide.module.scss"
 
+
 class RightSide extends React.Component {
 
     componentDidMount() {

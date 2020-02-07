@@ -2,6 +2,9 @@
     width: 80px;
     height: 80px;
     margin: 0 7% 0 3%;
+    border: #3E3636 solid 2px;
+    border-radius: 50%;
+    background-color: #3e3636;
 }
 
 .personInfo {
@@ -22,11 +25,19 @@
 
 @media (min-width:1600px) {
     .person {
-        width: 100px;
-        height: 100px;
+        width: 120px;
+        height: 120px;
     }
 
-    .name {
-        font-size: 20px;
+    .personInfo {
+        .name {
+            font-size: 23px;
+        }
+
+        .desc {
+            font-size: 20px;
+        }
     }
+
+
 }

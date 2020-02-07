@@ -16,7 +16,9 @@ class Youtube extends React.Component {
                 theNewestImg: data.items[0].thumbnail,
                 newerImg: data.items[1].thumbnail,
             }))
+
     }
+
 
     render() {
         return (

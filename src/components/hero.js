@@ -1,10 +1,10 @@
 import React from "react"
 import heroStyles from "../styles/hero.module.scss"
-import logo from "../images/guh.png"
-import facebook from "../images/facebook-f-brands.svg"
-import instagram from "../images/instagram-brands.svg"
-import youtube from "../images/youtube-brands.svg"
-import arrow from "../images/arrow-down.svg"
+import logo from "../images/guhlogo.png"
+import facebook from "../images/facebook.svg"
+import instagram from "../images/instagram.svg"
+import youtube from "../images/youtube.svg"
+import arrow from "../images/arrowDown.svg"
 import Nav from '../components/nav';
 const Hero = () => (
     <div className={heroStyles.hero}>

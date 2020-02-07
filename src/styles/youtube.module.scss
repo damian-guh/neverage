@@ -15,12 +15,16 @@
     .clips {
         width: 80%;
         height: 30%;
+        border: 3px solid #D72323;
+        border-radius: 10px;
+
     }
+
 
     @media (orientation:landscape) {
         .clips {
             width: 35%;
-            height: 40%;
+            height: 45%;
             margin: 5% 3%
         }
     }
