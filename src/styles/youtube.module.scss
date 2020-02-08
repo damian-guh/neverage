@@ -1,0 +1,38 @@
+.youtube {
+    height: 100vh;
+    background-color: #3E3636;
+    text-align: center;
+
+    .title {
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        color: #D72323;
+        padding: 35px;
+        margin: 0;
+        font-size: 30px;
+    }
+
+    .clips {
+        width: 80%;
+        height: 30%;
+        border: 3px solid #D72323;
+        border-radius: 10px;
+
+    }
+
+
+    @media (orientation:landscape) {
+        .clips {
+            width: 35%;
+            height: 45%;
+            margin: 5% 3%
+        }
+    }
+
+    @media(min-width:1366px) {
+        .title {
+            font-size: 40px;
+        }
+    }
+
+}
