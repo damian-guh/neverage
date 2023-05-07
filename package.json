@@ -2,7 +2,7 @@
   "name": "neverage",
   "dependencies": {
     "aos": "^2.3.4",
-    "gatsby": "^2.18.12",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-manifest": "^2.2.31",
